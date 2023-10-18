@@ -1,0 +1,82 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    border: 1px solid black;
+    display: flex;
+}
+.leftBox{
+    background-color: lightslategray;
+    width: 350px;
+    padding: 50px;
+}
+.rightBox{
+    background-color: lightgray;
+    width: 500px;
+}
+.user-image{
+    width:250px;
+    height: 250px;
+    border-radius: 100%;
+}
+.name-con{
+    margin-top: 70px;
+}
+.name-con>h2{
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    padding-left: 20px;
+}
+.name-con>h5{
+    padding-left: 20px;
+    font-size: 20px;
+}
+.contact{
+    padding-bottom: 10px;
+    margin-top: 20px;
+}
+.contact>h3{
+    border-bottom: 2px solid black;
+}
+.education>h3{
+    border-bottom: 2px solid black;
+}
+.Area>h3{
+    border-bottom: 2px solid black;
+}
+.skills>h3{
+    border-bottom: 2px solid black;
+}
+.languages>h3{
+    border-bottom: 2px solid black;
+}
+.Career{
+    padding-left: 20px;
+    margin-top: 180px;
+}
+.Career>h3{
+    border-bottom: 2px solid black;
+}
+.Intern{
+    padding-left: 20px;
+    margin-top: 30px;
+}
+.Intern>h3{
+    border-bottom: 2px solid black;
+}
+.project{
+    padding-left: 20px;
+    margin-top: 30px;
+}
+.project>h3{
+    border-bottom: 2px solid black;
+}
+.Dec{
+    padding-left: 20px;
+    margin-top: 30px;
+}
+.Dec>h3{
+    border-bottom: 2px solid black;
+}
